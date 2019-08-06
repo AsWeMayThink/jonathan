@@ -23,3 +23,5 @@ See the first video for an example of me deploying this to a DigitalOcean server
 ## YouTube Episodes for This Code
 
 [![Mentoring Jonathan Part 1](http://img.youtube.com/vi/4sziUEzWnvo/0.jpg)](http://www.youtube.com/watch?v=4sziUEzWnvo "Mentoring Jonathan Part 1")
+
+[![Mentoring Jonathan Part 2](http://img.youtube.com/vi/2bqL1roS-kg/0.jpg)](http://www.youtube.com/watch?v=2bqL1roS-kg "Mentoring Jonathan Part 2")
